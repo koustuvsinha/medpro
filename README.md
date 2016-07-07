@@ -6,6 +6,8 @@ Currently developed on Android, will test it out in Iphone as well later.
 
 Built with [React Native Material Design](https://github.com/react-native-material-design)
 
+Icon packs used from [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+
 ## Todo
 
 - [ ] Add Drawer
